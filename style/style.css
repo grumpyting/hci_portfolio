@@ -21,7 +21,7 @@ nav{
 
 nav a {
   float: left;
-  font-size: 16px;
+  font-size: 20px;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -34,7 +34,7 @@ nav a {
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;  
+  font-size: 20px;  
   border: none;
   outline: none;
   color: white;
@@ -71,4 +71,17 @@ nav a {
 
 footer{
 	background-color: green;
+}
+
+article{
+  margin-left: 20px;
+}
+
+video{
+  max-width: 600px;
+  max-height: 600px ;
+}
+
+h1{
+  margin-left: 20px;
 }
